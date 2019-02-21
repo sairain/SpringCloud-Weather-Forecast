@@ -1,0 +1,8 @@
+com\hxj\cloud\App.class
+com\hxj\cloud\util\XmlBuilder.class
+com\hxj\cloud\config\RestConfiguration.class
+com\hxj\cloud\serviceimpl\WeatherDataCollectionServiceImpl.class
+com\hxj\cloud\vo\City.class
+com\hxj\cloud\job\WeatherDataSyncJob.class
+com\hxj\cloud\service\WeatherDataCollectionService.class
+com\hxj\cloud\config\QuartzConfiguration.class
